@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\ContactList\\ContactList\\",
+  "WorkspaceRootPath": "D:\\contact-list-winforms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|c:\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|d:\\contact-list-winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|c:\\contactlist\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|c:\\contactlist\\contactlist\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|D:\\contact-list-winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|C:\\ContactList\\ContactList\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|D:\\contact-list-winforms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40A185CB-18E5-4CA8-B127-7F12995BA0F7}|ContactList.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -31,56 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "C:\\ContactList\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "AddContactForm.cs",
-              "ToolTip": "C:\\ContactList\\ContactList\\AddContactForm.cs [Design]",
-              "RelativeToolTip": "AddContactForm.cs [Design]",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\contact-list-winforms\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\contact-list-winforms\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:59:15.044Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AddContactForm.cs",
-              "DocumentMoniker": "C:\\ContactList\\ContactList\\AddContactForm.cs",
-              "RelativeDocumentMoniker": "AddContactForm.cs",
-              "ToolTip": "C:\\ContactList\\ContactList\\AddContactForm.cs",
-              "RelativeToolTip": "AddContactForm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T06:59:10.294Z",
+              "WhenOpened": "2025-03-29T10:04:52.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MainForm.cs [Design]",
-              "DocumentMoniker": "C:\\ContactList\\ContactList\\MainForm.cs",
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\contact-list-winforms\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\ContactList\\ContactList\\MainForm.cs [Design]",
+              "ToolTip": "D:\\contact-list-winforms\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T15:09:44.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\contact-list-winforms\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\contact-list-winforms\\MainForm.cs [Design]",
               "RelativeToolTip": "MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T15:08:05.544Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainForm.cs",
-              "DocumentMoniker": "C:\\ContactList\\ContactList\\MainForm.cs",
-              "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "C:\\ContactList\\ContactList\\MainForm.cs",
-              "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAUwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-27T15:09:44.042Z",
-              "EditorCaption": ""
             }
           ]
         }
